@@ -1,7 +1,9 @@
 
-package com.colourfulllife.uninstaller;
+package com.colourfullife.uninstaller;
 
 import java.util.Locale;
+
+import com.colourfulllife.uninstaller.R;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
